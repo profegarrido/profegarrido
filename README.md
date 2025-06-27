@@ -1,5 +1,6 @@
-## Hi there 👋
+## Luis Garrido
 
+Profesor Introducción a la programación con python
 <!--
 **profegarrido/profegarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
